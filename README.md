@@ -14,7 +14,7 @@
 
 관련 영상: [1화](https://www.youtube.com/watch?v=xC818kTFKDY&t=180s)/[2화](https://www.youtube.com/watch?v=M_sopZJvvc8)
 
-관련 기사: [링크](https://drive.google.com/drive/folders/199aqAqvT2XcT2XICYeFV3IEV2PCJSOMV?usp=drive_link)
+관련 기사: [링크](http://edu.donga.com/?p=article&ps=view&at_no=20230615171355824202)
 
 ## 기타
 <b>Unity Version : 2021.3.25f1</b>
