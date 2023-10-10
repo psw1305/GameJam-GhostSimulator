@@ -9,7 +9,9 @@
 [itch.io](https://shshck5.itch.io/ghostsimulator-sbsgamejam)
 
 ## 관련 자료
+
 유튜브 [1화](https://www.youtube.com/watch?v=xC818kTFKDY&t=180s)/[2화](https://www.youtube.com/watch?v=M_sopZJvvc8)
+
 [관련 기사](https://drive.google.com/drive/folders/199aqAqvT2XcT2XICYeFV3IEV2PCJSOMV?usp=drive_link)
 
 ## 기타
